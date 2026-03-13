@@ -2,7 +2,6 @@ pycache/
 *.pyc
 *.pyo
 *.pyd
-*.joblib
 
 venv/
 .env/
